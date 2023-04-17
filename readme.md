@@ -13,15 +13,15 @@ Winter aims to be as secure as possible without losing performance. We do this b
 Winter is pre-tweaked. While maintaining compatibility, but also striving for performance, we have squeezed every last drop of performance into our Windows images.
 Some of the many changes that we have done to improve Windows have been listed below.
 
-Customized power scheme
-Reduced amount of services and drivers
-Disabled audio exclusive
-Disabled unneeded devices
-Disabled power savings
-Disabled performance-hungry security mitigations
-Automatically enabled MSI mode on all devices
-Boot configuration optimization
-Optimized process scheduling
+- Customized power scheme
+- Reduced amount of services and drivers
+- Disabled audio exclusive
+- Disabled unneeded devices
+- Disabled power savings
+- Disabled performance-hungry security mitigations
+- Automatically enabled MSI mode on all devices
+- Boot configuration optimization
+- Optimized process scheduling
 
 # ⚠️ Disclaimer: 
 By downloading, modifying, or editing any of these images you are agreeing to Microsoft's terms of service. None of our ISO(s) are pre-activated, you must activate the Windows ISO yourself.
